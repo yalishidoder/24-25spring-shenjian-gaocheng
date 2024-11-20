@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\vs\u8C03\u8BD5\u6F14\u793A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C041F34-8EE2-4B95-BC01-CAB206C9CF7D}|vs\u8C03\u8BD5\u6F14\u793A\\vs\u8C03\u8BD5\u6F14\u793A.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\vs\u8C03\u8BD5\u6F14\u793A\\vs\u8C03\u8BD5\u6F14\u793A\\vs2022\u8C03\u8BD5\u6F14\u793A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C041F34-8EE2-4B95-BC01-CAB206C9CF7D}|vs\u8C03\u8BD5\u6F14\u793A\\vs\u8C03\u8BD5\u6F14\u793A.vcxproj|solutionrelative:vs\u8C03\u8BD5\u6F14\u793A\\vs2022\u8C03\u8BD5\u6F14\u793A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vs2022\u8C03\u8BD5\u6F14\u793A.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\vs\u8C03\u8BD5\u6F14\u793A\\vs\u8C03\u8BD5\u6F14\u793A\\vs2022\u8C03\u8BD5\u6F14\u793A.cpp",
+              "RelativeDocumentMoniker": "vs\u8C03\u8BD5\u6F14\u793A\\vs2022\u8C03\u8BD5\u6F14\u793A.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\vs\u8C03\u8BD5\u6F14\u793A\\vs\u8C03\u8BD5\u6F14\u793A\\vs2022\u8C03\u8BD5\u6F14\u793A.cpp",
+              "RelativeToolTip": "vs\u8C03\u8BD5\u6F14\u793A\\vs2022\u8C03\u8BD5\u6F14\u793A.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T10:17:35.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

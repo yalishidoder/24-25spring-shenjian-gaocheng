@@ -1,0 +1,5 @@
+﻿  cmd_console_tools.cpp
+D:\高程程序\90-b1\test-cct\cmd_console_tools.cpp(211,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test-cct.cpp
+  正在生成代码...
+  test-cct.vcxproj -> D:\高程程序\90-b1\x64\Debug\test-cct.exe

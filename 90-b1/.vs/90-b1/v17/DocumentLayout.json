@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41741088-AD24-4A9B-A606-45B09EBB7657}|test-cct\\test-cct.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\test-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41741088-AD24-4A9B-A606-45B09EBB7657}|test-cct\\test-cct.vcxproj|solutionrelative:test-cct\\test-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_multiple_solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi_multiple_solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week11\\\u4EBA\u6C11\u5E01\\rmb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\cmd_console_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\cmd_console_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41741088-AD24-4A9B-A606-45B09EBB7657}|test-cct\\test-cct.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\cmd_console_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41741088-AD24-4A9B-A606-45B09EBB7657}|test-cct\\test-cct.vcxproj|solutionrelative:test-cct\\cmd_console_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4670673B-B43F-4796-A26B-3B3278A1622D}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi_menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41741088-AD24-4A9B-A606-45B09EBB7657}|test-cct\\test-cct.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41741088-AD24-4A9B-A606-45B09EBB7657}|test-cct\\test-cct.vcxproj|solutionrelative:test-cct\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "90-b1\\cmd_console_tools.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\cmd_console_tools.cpp",
+              "RelativeToolTip": "90-b1\\cmd_console_tools.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T14:10:10.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test-cct.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\test-cct.cpp",
+              "RelativeDocumentMoniker": "test-cct\\test-cct.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\test-cct.cpp",
+              "RelativeToolTip": "test-cct\\test-cct.cpp",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAgwDgBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T08:46:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hanoi_multiple_solutions.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_multiple_solutions.cpp",
+              "RelativeDocumentMoniker": "90-b1\\hanoi_multiple_solutions.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_multiple_solutions.cpp",
+              "RelativeToolTip": "90-b1\\hanoi_multiple_solutions.cpp",
+              "ViewState": "AQIAADMDAAAAAAAAAAAgwEUDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T14:25:51.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hanoi.h",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi.h",
+              "RelativeDocumentMoniker": "90-b1\\hanoi.h",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi.h",
+              "RelativeToolTip": "90-b1\\hanoi.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T08:52:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hanoi_main.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_main.cpp",
+              "RelativeDocumentMoniker": "90-b1\\hanoi_main.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_main.cpp",
+              "RelativeToolTip": "90-b1\\hanoi_main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T08:51:05.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hanoi_menu.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_menu.cpp",
+              "RelativeDocumentMoniker": "90-b1\\hanoi_menu.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\hanoi_menu.cpp",
+              "RelativeToolTip": "90-b1\\hanoi_menu.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T01:17:36.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cmd_console_tools.h",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\cmd_console_tools.h",
+              "RelativeDocumentMoniker": "90-b1\\cmd_console_tools.h",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\90-b1\\cmd_console_tools.h",
+              "RelativeToolTip": "90-b1\\cmd_console_tools.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T12:59:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rmb.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week11\\\u4EBA\u6C11\u5E01\\rmb.cpp",
+              "RelativeDocumentMoniker": "..\\week11\\\u4EBA\u6C11\u5E01\\rmb.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week11\\\u4EBA\u6C11\u5E01\\rmb.cpp",
+              "RelativeToolTip": "..\\week11\\\u4EBA\u6C11\u5E01\\rmb.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T00:05:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cmd_console_tools.h",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\cmd_console_tools.h",
+              "RelativeDocumentMoniker": "test-cct\\cmd_console_tools.h",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\cmd_console_tools.h",
+              "RelativeToolTip": "test-cct\\cmd_console_tools.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T08:46:54.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "test-cct\\cmd_console_tools.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\90-b1\\test-cct\\cmd_console_tools.cpp",
+              "RelativeToolTip": "test-cct\\cmd_console_tools.cpp",
+              "ViewState": "AQIAALUBAAAAAAAAAAAAADMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T08:44:22.411Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

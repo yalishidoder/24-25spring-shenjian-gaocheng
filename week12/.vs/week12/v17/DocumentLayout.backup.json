@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB52A12-0A70-4ABE-9899-FFC1449586D7}|cj2\\cj2.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj2\\5-b16-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EB52A12-0A70-4ABE-9899-FFC1449586D7}|cj2\\cj2.vcxproj|solutionrelative:cj2\\5-b16-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F53286-187C-48B8-98BD-60283EE9F759}|\u5BC6\u7801\\\u5BC6\u7801.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u5BC6\u7801\\5-b17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7F53286-187C-48B8-98BD-60283EE9F759}|\u5BC6\u7801\\\u5BC6\u7801.vcxproj|solutionrelative:\u5BC6\u7801\\5-b17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6B9272-0934-46AA-9C1F-7785664A61EE}|\u533A\u5206\\\u533A\u5206.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u533A\u5206\\5-b15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C6B9272-0934-46AA-9C1F-7785664A61EE}|\u533A\u5206\\\u533A\u5206.vcxproj|solutionrelative:\u533A\u5206\\5-b15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956A3C8D-A3EB-418B-B706-3D83265C5EDD}|cj4\\cj4.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj4\\5-b16-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{956A3C8D-A3EB-418B-B706-3D83265C5EDD}|cj4\\cj4.vcxproj|solutionrelative:cj4\\5-b16-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8440EA-70E6-49EA-B7D8-33731844D6C8}|cj\u6392\u5E8F1\\cj\u6392\u5E8F1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj\u6392\u5E8F1\\5-b16-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA8440EA-70E6-49EA-B7D8-33731844D6C8}|cj\u6392\u5E8F1\\cj\u6392\u5E8F1.vcxproj|solutionrelative:cj\u6392\u5E8F1\\5-b16-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E2E4F1-2065-436E-B991-63A722F6B8B8}|cj3\\cj3.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj3\\5-b16-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80E2E4F1-2065-436E-B991-63A722F6B8B8}|cj3\\cj3.vcxproj|solutionrelative:cj3\\5-b16-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC54C9-B156-43F2-83C1-02DD2B9DFF8D}|\u9A8C\u8BC1\\\u9A8C\u8BC1.vcxproj|D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u9A8C\u8BC1\\5-b18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91DC54C9-B156-43F2-83C1-02DD2B9DFF8D}|\u9A8C\u8BC1\\\u9A8C\u8BC1.vcxproj|solutionrelative:\u9A8C\u8BC1\\5-b18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5-b16-3.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj3\\5-b16-3.cpp",
+              "RelativeDocumentMoniker": "cj3\\5-b16-3.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj3\\5-b16-3.cpp",
+              "RelativeToolTip": "cj3\\5-b16-3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T08:29:41.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5-b15.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u533A\u5206\\5-b15.cpp",
+              "RelativeDocumentMoniker": "\u533A\u5206\\5-b15.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u533A\u5206\\5-b15.cpp",
+              "RelativeToolTip": "\u533A\u5206\\5-b15.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T02:40:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-b17.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u5BC6\u7801\\5-b17.cpp",
+              "RelativeDocumentMoniker": "\u5BC6\u7801\\5-b17.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u5BC6\u7801\\5-b17.cpp",
+              "RelativeToolTip": "\u5BC6\u7801\\5-b17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:53:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-b16-2.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj2\\5-b16-2.cpp",
+              "RelativeDocumentMoniker": "cj2\\5-b16-2.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj2\\5-b16-2.cpp",
+              "RelativeToolTip": "cj2\\5-b16-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T08:57:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5-b16-1.c",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj\u6392\u5E8F1\\5-b16-1.c",
+              "RelativeDocumentMoniker": "cj\u6392\u5E8F1\\5-b16-1.c",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj\u6392\u5E8F1\\5-b16-1.c",
+              "RelativeToolTip": "cj\u6392\u5E8F1\\5-b16-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-19T03:00:05.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5-b16-4.c",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj4\\5-b16-4.c",
+              "RelativeDocumentMoniker": "cj4\\5-b16-4.c",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\cj4\\5-b16-4.c",
+              "RelativeToolTip": "cj4\\5-b16-4.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-19T09:05:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "5-b18.cpp",
+              "DocumentMoniker": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u9A8C\u8BC1\\5-b18.cpp",
+              "RelativeDocumentMoniker": "\u9A8C\u8BC1\\5-b18.cpp",
+              "ToolTip": "D:\\\u9AD8\u7A0B\u7A0B\u5E8F\\week12\\\u9A8C\u8BC1\\5-b18.cpp",
+              "RelativeToolTip": "\u9A8C\u8BC1\\5-b18.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:26:45.619Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
